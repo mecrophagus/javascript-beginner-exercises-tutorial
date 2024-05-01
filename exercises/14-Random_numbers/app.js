@@ -1,6 +1,6 @@
-function getRandomInt()
+                                                           function getRandomInt()
 {
-	let randomNumber = Math.random();
+	let randomNumber = Math.random()* 10 + 1;
 	return randomNumber;
 }
 
